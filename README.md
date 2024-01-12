@@ -11,7 +11,7 @@ Competencies: Python (Pandas, scikit-learn, TensorFlow, Open-CV, Numpy, Matplotl
 
 🌱 I'm currently studying up on data structures and algorithms.
 
-💬 Ask me about modeling and simulation! This is an area I'm incredibly passionate at as these concepts are incredibly powerful but we must understand what they DO and DON'T enable us to do.
+💬 Ask me about modeling and simulation! I love this area because these concepts are incredibly powerful but we must understand what they DO and DON'T enable us to do.
 
 ⚡ Fun fact: Over the past two years I've learned and practiced Bass Guitar! I love slap bass and funky msuic and I've been steadily learning some of my favorite songs!
 
