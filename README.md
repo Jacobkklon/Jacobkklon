@@ -2,10 +2,10 @@
 
 ✨ I love operations research, novel problems with creative solutions, statistics, probability, and automation and control of large physical systems. Please take a look at my pinned projects below to get an idea of my experience!
 
-**Education:** RU '22 Industrial and Systems Engineering 
-**Location:** NY Metro Area (NJ)
-**Certifications:** Microsoft Azure AZ-900 Fundamentals, SQL for Data Science (UC Davis), Agile Software Development
-**Competencies:** Python (Pandas, scikit-learn, TensorFlow, Open-CV, Numpy, Matplotlib), R, SQL, Tableau, and Power BI
+**Education:** RU '22 Industrial and Systems Engineering  
+**Location:** NY Metro Area (NJ)  
+**Certifications:** Microsoft Azure AZ-900 Fundamentals, SQL for Data Science (UC Davis), Agile Software Development  
+**Competencies:** Python (Pandas, scikit-learn, TensorFlow, Open-CV, Numpy, Matplotlib), R, SQL, Tableau, and Power BI  
 
 🔭 I currently work as a Consultant at Capgemini in NYC where I've worked on Logistics IT Application Operations and Integraded Business Planning in SAP.
 
