@@ -7,7 +7,7 @@
 **Certifications:** Microsoft Azure AZ-900 Fundamentals, SQL for Data Science, Agile Software Development, Lean Six Sigma Yellow Belt
 **Competencies:** Python (Pandas, scikit-learn, TensorFlow, Open-CV, Numpy, Matplotlib), R, SQL, C, Tableau, and Power BI  
 
-🔭 I currently work as a Consultant at Capgemini in NYC where I've worked on Logistics IT Application Operations and am now learning about Integrated Business Planning in SAP.
+🔭 I currently work as a Consultant at Capgemini in NYC where I've worked on Logistics IT Application Operations and am now focusing on Integrated Business Planning in SAP.
 
 🌱 I'm currently improving my knowledge on data structures and algorithms.
 
