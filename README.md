@@ -4,7 +4,7 @@
 
 **Education:** RU '22 Industrial and Systems Engineering  
 **Location:** NY Metro Area (NJ)  
-**Certifications:** Microsoft Azure AZ-900 Fundamentals, SQL for Data Science (UC Davis), Agile Software Development, Lean Six Sigma Yellow Belt
+**Certifications:** Microsoft Azure AZ-900 Fundamentals, SQL for Data Science, Agile Software Development, Lean Six Sigma Yellow Belt
 **Competencies:** Python (Pandas, scikit-learn, TensorFlow, Open-CV, Numpy, Matplotlib), R, SQL, C, Tableau, and Power BI  
 
 🔭 I currently work as a Consultant at Capgemini in NYC where I've worked on Logistics IT Application Operations and am now learning about Integrated Business Planning in SAP.
