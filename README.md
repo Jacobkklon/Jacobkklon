@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Jacob and I'm a passionate young professional interested in programming and data science!
+### Hi there 👋 My name is Jacob and I'm a passionate young professional interested in data!
 
 ✨ I love operations research, novel problems with creative solutions, statistics, probability, and automation and control of large physical systems. Please take a look at my pinned projects below to get an idea of my experience!
 
