@@ -4,16 +4,13 @@
 
 **Education:** RU '22 Industrial and Systems Engineering  
 **Location:** NY Metro Area (NJ)  
-**Certifications:** Microsoft Azure AZ-900 Fundamentals, SQL for Data Science, Agile Software Development, Lean Six Sigma Yellow Belt
-**Competencies:** Python (Pandas, scikit-learn, TensorFlow, Open-CV, Numpy, Matplotlib), R, SQL, C, Tableau, and Power BI  
+**Certifications:** AWS Certified Solutions Architect, Microsoft Azure AZ-900 Fundamentals, SQL for Data Science, Agile Software Development, Lean Six Sigma Yellow Belt
 
-🔭 I currently work as a Consultant at Capgemini in NYC where I've worked on Logistics IT Application Operations and am now focusing on Integrated Business Planning in SAP.
-
-🌱 I'm currently improving my knowledge on data structures and algorithms.
+🔭 I currently work as a Data Engineer at JPMorganChase.
 
 💬 Ask me about modeling and simulation! I love this area because these concepts are incredibly powerful but we must understand what they DO and DON'T enable us to do.
 
-⚡ Fun fact: Over the past two years I've learned and practiced Bass Guitar. I love slap bass and funky music and I've been steadily learning some of my favorite songs!
+⚡ Fun fact: Over the past four years I've learned and practiced Bass Guitar. I love slap bass and funky music and I've been steadily learning some of my favorite songs!
 
 
 
